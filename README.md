@@ -61,6 +61,10 @@ flutter run --web-renderer html
 ## Usage
 Feel free to modify any part of the project to suit your personal portfolio needs. Ensure you update the image assets and content in the respective files.
 
+# Buy Me a Coffee
+
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/hiteshsapra)
+
 ## License
 ```
 Project Name: Flutter Personal Portfolio
