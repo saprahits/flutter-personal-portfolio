@@ -43,7 +43,7 @@ The project is organized into several main directories:
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/saprahits/hiteshsapra.git
+git clone https://github.com/saprahits/flutter-personal-portfolio.git
 ```
 2. Navigate to the project directory:
 ```sh
