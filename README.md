@@ -47,7 +47,7 @@ git clone https://github.com/saprahits/flutter-personal-portfolio.git
 ```
 2. Navigate to the project directory:
 ```sh
-cd hiteshsapra
+cd flutter-personal-portfolio
 ```
 3. Install dependencies:
 ```sh
